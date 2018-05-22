@@ -84,8 +84,8 @@ class Register { <br>
 Index.php <br>
 $register = new asw\jobs\Register; <br>
 echo $register->register(); <br>
-13.2.	Feito isso, terá que ser executado o comando composer dump-autoload -o no Terminal. Esse –o ¬no final do comando, significa que irá otimizar o autoload. <br>
-13.3.	O autoload serve também para chamar arquivos. Logo abaixo o exemplo de como definir no arquivo composer.json. <br>
+	13.2.	Feito isso, terá que ser executado o comando composer dump-autoload -o no Terminal. Esse –o ¬no final do comando, significa que irá otimizar o autoload. <br>
+	13.3.	O autoload serve também para chamar arquivos. Logo abaixo o exemplo de como definir no arquivo composer.json. <br>
 “autoload”: { <br>
 "files": ["functions/helpers.php"] <br>
 } <br>
