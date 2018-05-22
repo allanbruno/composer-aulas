@@ -1,4 +1,4 @@
-1.	O que é o Composer
+1.	O que é o Composer <br>
   1.1.	Composer é um gerenciador de dependências no qual evita o trabalho de baixar componentes para o processo do software.
   1.2.	Ele trabalha com autoload.
   1.3.	Exemplo
